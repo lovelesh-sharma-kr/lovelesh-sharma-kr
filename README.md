@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lovelesh-sharma-kr
 - 👀 I’m interested in learning new Technology every day
-- 🌱 I’m currently learning Python programmingd
+- 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on Cloud actions
-- 📫 How to reach me @ my Teams profile
+- 📫 You can reach me @ my Teams profile
 
 <!---
 lovelesh-sharma-kr/lovelesh-sharma-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
